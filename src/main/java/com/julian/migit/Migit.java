@@ -12,6 +12,6 @@ package com.julian.migit;
 public class Migit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("AGUACATE");
     }
 }
